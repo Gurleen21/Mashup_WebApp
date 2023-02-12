@@ -1,5 +1,5 @@
 # Mashup_WebApp
 
 ## Screenshots:
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/79686365/218332017-5efff452-db33-4475-b5c9-b857adffab39.png">
-<img width="942" alt="image" src="https://user-images.githubusercontent.com/79686365/218332087-067d5a4e-15dc-474b-ac8f-b6d47573ad7d.png">
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/79686365/218332297-3ee1b93e-c4e3-4a71-9cf2-7240c7b44a76.png">
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/79686365/218332354-5cb41046-e636-454b-a54a-9edca449f661.png">
